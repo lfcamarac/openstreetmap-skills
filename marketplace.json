@@ -1,0 +1,30 @@
+{
+  "name": "openstreetmap-skills",
+  "source": "./skills",
+  "description": "Complete OpenStreetMap integration skills for Flutter, Kotlin/Android, backend services, and ISP/telecom applications.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/lfcamarac/openstreetmap-skills",
+  "skills": [
+    {
+      "name": "osm-flutter",
+      "path": "./skills/osm-flutter",
+      "description": "OpenStreetMap integration for Flutter apps using flutter_map ecosystem"
+    },
+    {
+      "name": "osm-kotlin",
+      "path": "./skills/osm-kotlin",
+      "description": "OpenStreetMap integration for Android/Kotlin using osmdroid"
+    },
+    {
+      "name": "osm-services",
+      "path": "./skills/osm-services",
+      "description": "Backend services: OSRM routing, Nominatim geocoding, Overpass API, tile servers"
+    },
+    {
+      "name": "osm-isp",
+      "path": "./skills/osm-isp",
+      "description": "OpenStreetMap for ISP and telecom: network planning, infrastructure, coverage"
+    }
+  ]
+}
