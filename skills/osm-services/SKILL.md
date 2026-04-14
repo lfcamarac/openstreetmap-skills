@@ -305,14 +305,3 @@ map.setTileSource(custom)
 | **Tile OSM** | Yes | Policy restrictions |
 
 > **For production**: Always self-host or use paid providers for reliability.
-
-## References
-
-- `docs/OSRM_API_FLATBUFFERS.md` — Documentación completa de OSRM API v5.24.0 con FlatBuffers, schemas .fbs, ejemplos en Flutter/Dart y Kotlin
-- `references/osrm-api.md` — OSRM API endpoints, parameters, responses
-- `references/nominatim-api.md` — Nominatim API details, rate limits
-- `references/overpass-queries.md` — Overpass query patterns and examples
-- `references/valhalla-api.md` — Valhalla routing, isochrones, matrix
-- `references/docker-setup.md` — Complete Docker setup for all services
-- `examples/route_service.dart` — Routing service implementation
-- `examples/geocoding_service.kt` — Geocoding service in Kotlin

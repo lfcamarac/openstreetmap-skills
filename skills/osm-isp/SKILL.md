@@ -263,12 +263,3 @@ class AlertMap extends StatelessWidget {
 3. **Overpass API** — Query existing infrastructure before planning
 4. **OSRM routing** — Optimize technician routes
 5. **Contribute back** — Add your infrastructure to improve the map for everyone
-
-## References
-
-- `references/isp-planning.md` — FTTH planning patterns, coverage analysis
-- `references/telecom-tags.md` — Complete OSM tags for telecom infrastructure
-- `references/overpass-telecom.md` — Overpass queries for telecom infrastructure
-- `references/technician-tracking.md` — Real-time technician tracking patterns
-- `examples/isp_dashboard.dart` — Complete ISP dashboard
-- `examples/field_report.kt` — Field technician reporting app

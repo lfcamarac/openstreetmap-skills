@@ -131,11 +131,6 @@ See reference docs for complete implementations.
 ## References
 
 - `references/flutter-map-setup.md` — Complete setup, configuration, markers, overlays
-- `references/flutter-clustering.md` — Marker clustering implementation
-- `references/flutter-offline.md` — Offline maps and tile caching
-- `references/flutter-geojson.md` — GeoJSON parsing and rendering
-- `references/flutter-animations.md` — Smooth map animations
-- `references/flutter-tile-sources.md` — All available tile sources and policies
+- `references/flutter-clustering-offline-geojson.md` — Marker clustering, offline maps, GeoJSON, tile caching
 - `examples/basic_map.dart` — Minimal working example
 - `examples/dashboard.dart` — Full dashboard with clustering
-- `examples/offline_map.dart` — Offline map implementation

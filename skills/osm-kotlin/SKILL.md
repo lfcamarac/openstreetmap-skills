@@ -158,4 +158,3 @@ map.invalidate()
 - `references/osmdroid-setup.md` — Complete setup, configuration, markers, overlays
 - `references/osmdroid-advanced.md` — Routing, offline, Compose, GPX tracking
 - `examples/MainActivity.kt` — Minimal working example
-- `examples/FieldTechMap.kt` — Field technician map with markers and routes
